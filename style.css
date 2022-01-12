@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  background-color: #e1e1e4;
+}
+
+.tabs {
+  width: 49.84%;
+  padding: 0;
+  display: inline;
+  padding: 1em;
+  margin: 0;
+  background: #e1e1e4;
+  border: none;
+}
+
+.user-input {
+  text-align: left;
+  padding-left: 4em;
+  padding-top: 4em;
+}
+
+.radius {
+  height: 2em;
+}
+
+.tabs:hover {
+  cursor: pointer;
+  background: #ceced1;
+}
+
+.tab1 {
+  background: #bababd;
+}
+
+#calc {
+  display: block;
+  margin-top: 2em;
+  padding: 1em 0.5em;
+}
+
+#calc:hover {
+  cursor: pointer;
+}
+
+#result {
+  padding-top: 1em;
+  padding-left: 2em;
+  font-size: x-large;
+}
+/*# sourceMappingURL=style.css.map */
